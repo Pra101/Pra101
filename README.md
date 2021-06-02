@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Technical Skills:
-<!-- <code><img width="40px" src="https://github.com/ishikabansal04/ishikabansal04/blob/main/c.png" title="C++"/></code> -->
+<!-- <code><img width="40px" src="https://github.com/pra101/pra101/blob/main/c.png" title="C++"/></code> -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
