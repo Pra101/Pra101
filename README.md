@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 *Core Member* at Technocrats NSUT ...
-- 🔭  Technical lead at codechef NSUT chapter ...
+- 🔭  **Technical lead** at codechef NSUT chapter ...
 - **Ping me at prahaladsingh271200@gmail.com**
-<br>
-<br>
 <br>
 <br>
 <br>
