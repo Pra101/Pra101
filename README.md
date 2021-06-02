@@ -1,7 +1,7 @@
 # This is Pra101. 
 
 
-I am pursuing B.Tech in Computer Science Engineering , currently in my 2nd year. I am an active open source contributor and a Tech enthusiast.
+I am pursuing B.Tech in Computer Science Engineering.
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 <!--
 *ishikabansal04/ishikabansal04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
