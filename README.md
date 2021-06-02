@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-### Technical Skills:
-
   
 ### Contact Me At:
 <p align = "center">
