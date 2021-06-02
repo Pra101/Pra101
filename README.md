@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 *Core Member* at Technocrats NSUT ...
 - 🔭  Technical lead at codechef NSUT chapter ...
--  How to reach me **Ping me at prahaladsingh271200@gmail.com**
+- **Ping me at prahaladsingh271200@gmail.com**
 <br>
 <br>
 <br>
