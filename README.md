@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
   <a href="https://leetcode.com/pra101/">
-    <img src="https://github.com/ishikabansal04/ishikabansal04/blob/main/LeetCode_logo.png" width="4%" alt="Leetcode"/>
+    <img src="https://github.com/Pra101/Pra101/blob/main/images/LeetCode_logo_black.png" width="4%" alt="Leetcode"/>
   </a>
   <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
