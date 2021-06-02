@@ -50,9 +50,6 @@ Here are some ideas to get you started:
   <a href="mailto:prahaladsingh271200@gmail.com/">
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
-  <a href="https://leetcode.com/pra101/">
-    <img src="https://github.com/Pra101/Pra101/blob/main/images/LeetCode_logo_black.png" width="4%" alt="Leetcode"/>
-  </a>
   <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
