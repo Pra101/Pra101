@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra101&show_icons=true&locale=en&layout=compact" alt="pra101" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="150"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra101&show_icons=true&locale=en&layout=compact" alt="pra101" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=pra101&show_icons=true&locale=en&count_private=true&hide=issues" alt="pra101" height="150"/></p>
  
 <br>
 <hr>
