@@ -83,13 +83,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/pra101">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
-  <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
-    <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
-  </a>
   <a href="https://leetcode.com/pra101/">
     <img src="https://github.com/ishikabansal04/ishikabansal04/blob/main/LeetCode_logo.png" width="4%" alt="Leetcode"/>
   </a>
-   <a href="#">
-    <img src="https://www.youtube.com/watch?v=p-4YTCs7qbg" width="5%" alt= "Portfolio"/>
+  <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
+    <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
 </p>
