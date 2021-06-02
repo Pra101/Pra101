@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 *Core Member* at Technocrats NSUT ...
 - 🔭  Technical lead at codechef NSUT chapter ...
-- 🌟 *Contributed To:* DevelopHer Twitter, Codonfest, Microsoft Codess, Smart Interz, WireUs Challenge, Google Cloud, JP Morgan Virtual Software Engineering Experience.
+- 🌟 *Contributed To:* DevelopHer Twitter, Codonfest, Microsoft Codess, Smart Interz, WireUs Challenge, Google Cloud, JP Morgan Virtual Software Engineering
+-  Experience.
+-  How to reach me **Ping me at prahaladsingh271200@gmail.com**
 <br>
 <br>
 <h2>Contributions:</h2>
