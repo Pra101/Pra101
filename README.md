@@ -1,10 +1,10 @@
 # Pra101
 # Bonjour 💗
 
-## This is Ishika Bansal, SWE intern at Microsoft' 2021. 
+## This is Prahalad,' 2021. 
 
 
-I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
+I am pursuing B.Tech in Computer Science Engineering , currently in my 2nd year. I am an active open source contributor and a Tech enthusiast.
 
 <!--
 *ishikabansal04/ishikabansal04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,34 +77,19 @@ Here are some ideas to get you started:
   
 ### Contact Me At:
 <p align = "center">
-  <a href="https://www.facebook.com/ishika.bansal.167/">
+  <a href="https://www.facebook.com/profile.php?id=100011314336922/">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
   </a>
-  <a href="https://www.instagram.com/ishikabansal8/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
-  </a>
-  <a href="https://twitter.com/IshikaB82743361">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
-  </a>
-  <a href="https://github.com/ishikabansal04">
+  <a href="https://github.com/pra101">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
-  <a href="https://www.linkedin.com/in/ishika-bansal-9893b3184/">
+  <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
-  <a href="https://www.qwiklabs.com/public_profiles/d5b12491-eaeb-4d90-a591-144268598c99">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
-  </a>
-  <a href="mailto:ikabansal04@gmail.com/">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/IshikaBansal04">
-    <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
-  </a>
-  <a href="https://leetcode.com/ishikabansal/">
+  <a href="https://leetcode.com/pra101/">
     <img src="https://github.com/ishikabansal04/ishikabansal04/blob/main/LeetCode_logo.png" width="4%" alt="Leetcode"/>
   </a>
    <a href="#">
-    <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
+    <img src="https://www.youtube.com/watch?v=p-4YTCs7qbg" width="5%" alt= "Portfolio"/>
   </a>
 </p>
