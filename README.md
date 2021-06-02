@@ -39,18 +39,14 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-
- ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
- <p align ="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=black-ice" />
-  </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="150"/></p>
  
 <br>
 <hr>
 <br>
 
 ### Technical Skills:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="150"/></p>
+
   
 ### Contact Me At:
 <p align = "center">
