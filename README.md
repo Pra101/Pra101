@@ -22,17 +22,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 *Core Member* at Technocrats NSUT ...
 - 🔭  Technical lead at codechef NSUT chapter ...
-- 🌟 *Contributed To:* DevelopHer Twitter, Codonfest, Microsoft Codess, Smart Interz, WireUs Challenge, Google Cloud, JP Morgan Virtual Software Engineering
--  Experience.
 -  How to reach me **Ping me at prahaladsingh271200@gmail.com**
-<br>
 <br>
 <h2>Contributions:</h2>
 
 <br>
-
-<br>
-<hr>
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra101&show_icons=true&locale=en&layout=compact" alt="pra101" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=pra101&show_icons=true&locale=en&count_private=true&hide=issues" alt="pra101" height="150"/></p>
