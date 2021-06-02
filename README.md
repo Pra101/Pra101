@@ -2,7 +2,7 @@
 
 
 I am pursuing B.Tech in Computer Science Engineering.
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350" >
 <!--
 *ishikabansal04/ishikabansal04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
