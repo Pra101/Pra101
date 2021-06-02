@@ -1,7 +1,4 @@
-# Pra101
-# Bonjour 💗
-
-## This is Prahalad,' 2021. 
+# This is Pra101. 
 
 
 I am pursuing B.Tech in Computer Science Engineering , currently in my 2nd year. I am an active open source contributor and a Tech enthusiast.
