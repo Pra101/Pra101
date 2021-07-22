@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - 🔭  **Technical lead** at codechef NSUT chapter ...
 - **Ping me at prahaladsingh271200@gmail.com**
 <br>
-<br>
-<br>
 <h2>Contributions:</h2>
 
 <br>
