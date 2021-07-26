@@ -2,7 +2,7 @@
 
 I am pursuing B.Tech in Computer Science Engineering.
 
-##My Portfolio : https://pra101.github.io/
+My Portfolio : https://pra101.github.io/
 
 
 - 👨‍💻 **Core Member** at Technocrats NSUT ...
