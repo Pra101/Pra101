@@ -1,12 +1,11 @@
 # This is Pra101. 
 
-I am pursuing B.Tech in Computer Science Engineering.
+I am Computer Science Graduate From Netaji Subhas University Of Technology
+Presently Working as an Associate at MNC, Role : Software Development Engineer.
+I love Open Source Contributions
 
 My Portfolio : https://pra101.netlify.app/
 
-
-- 👨‍💻 **Core Member** at Technocrats NSUT ...
-- 🔭  **Technical lead** at codechef NSUT chapter ...
 - **Ping me at prahaladsingh271200@gmail.com**
 <br>
 <h2>Contributions:</h2>
@@ -43,7 +42,7 @@ My Portfolio : https://pra101.netlify.app/
   <a href="mailto:prahaladsingh271200@gmail.com/">
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/prahalad-singh-98591014a/">
+  <a href="https://www.linkedin.com/in/prahalad-singh/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
 </p>
