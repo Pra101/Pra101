@@ -8,13 +8,6 @@ My Portfolio : https://pra101.netlify.app/
 
 - **Ping me at prahaladsingh271200@gmail.com**
 <br>
-<h2>Contributions:</h2>
-
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra101&show_icons=true&locale=en&layout=compact" alt="pra101" height="120"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=pra101&show_icons=true&locale=en&count_private=true&hide=issues" alt="pra101" height="120"/></p>
- 
-<br>
 <hr>
 <br>
 
